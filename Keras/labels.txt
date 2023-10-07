@@ -1,0 +1,4 @@
+0 Mouses
+1 Auriculares
+2 WebCam
+3 Teclados
