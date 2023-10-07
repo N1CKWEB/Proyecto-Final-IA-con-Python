@@ -46,3 +46,5 @@ while True:
   #Libera la camara web y cierra todas las ventanas
   cap.release()
   cv2.destroyAllWindows()
+  
+
