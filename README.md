@@ -12,3 +12,7 @@ Se puede usa  con: ▶️Auriculares.
 ⚛️Instrucciones:
 Tienes que poner dos opciones de esos perifericos por ejemplo Auriculares y Mouses y así funciona.
 
+Librerias utilizadas en python:
+                               🥇OpenCV
+                               🥇Numpy
+                               🥇Keras
