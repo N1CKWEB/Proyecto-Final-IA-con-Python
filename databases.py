@@ -1,6 +1,5 @@
 #Iniciamos el proyecto inicial!!!
 
-
 #Importamos las librerias
 import cv2
 import numpy as np
@@ -8,11 +7,11 @@ from keras.models import load_model
 from keras.preprocessing import image
 
 #Ahora cargamos el modelo preentrenado desde el archivo
-model = load_model('keras/keras_model.h5')
+model = load_model('Keras/keras_model.h5')
 
 #Iniciamos la camara
 cap = cv2.VideoCapture(0)
-class_labels=['Auriculares','Mouses']
+class_labels=['Mouses','Auriculares']
 
 while True:
       #Capturar los de frame de la camara
@@ -37,7 +36,7 @@ while True:
     
   #Mostrar el fotograma con la etiqueta de clases
     cv2.putText(frame, class_label, (10, 30), cv2.FONT_HERSHEY_COMPLEX,
-                1.0, (255, 255, 255), 3)
+                1.0, (100, 140, 105), 3)
     cv2.imshow('Camara', frame)
     
  #Haremos una función para que el bucle se termine presionando "s"
