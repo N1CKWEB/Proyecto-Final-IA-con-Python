@@ -1,18 +1,26 @@
-# Proyecto-Final-IA-con-Python
+# Proyecto Final de Inteligencia Artificial con Python 🐍🐍
 
-▶️!!Leer mensaje importante!!◀️
+# Reconocimiento de Periféricos 🕵️‍♂️
+¡Bienvenido al Proyecto Final de Inteligencia Artificial! Este programa tiene la capacidad de reconocer hasta dos objetos diferentes. Aunque actualmente se encuentra en su versión inicial, estamos trabajando arduamente para ampliar su capacidad de reconocimiento en futuras actualizaciones. 🚀
 
-.Reconocimiento de perifericos, el programa recibe hasta dos objetos, tratare de mejorarlo para que pueda reconocer más objetos pero por ahora la primera versión es así...🥇
+# Objetos Compatibles 🎧🖱️🎥⌨️
+Puedes utilizar el programa con los siguientes periféricos:
 
-Se puede usa  con: ▶️Auriculares.
-                   ▶️Teclados.
-                   ▶️WebCam.
-                   ▶️Mouses.                 
+Auriculares 🎧
+Teclados ⌨️
+Webcams 🎥
+Ratones 🖱️
 
-⚛️Instrucciones:
-Tienes que poner dos opciones de esos perifericos por ejemplo Auriculares y Mouses y así funciona.
+# Instrucciones de Uso 📚
+Para utilizar el programa, simplemente proporciona dos opciones de periféricos al inicio. Por ejemplo, puedes ingresar "Auriculares" y "Ratones". El programa se encargará de reconocer y procesar la información de estos dispositivos. 🤖
 
-Librerias utilizadas en python:
-                               🥇OpenCV
-                               🥇Numpy
-                               🥇Keras
+# Librerías Utilizadas 📦
+Este proyecto hace uso de las siguientes librerías en Python:
+
+OpenCV 🥇
+Numpy 🥇
+Keras 🥇
+Estas librerías son fundamentales para el funcionamiento del programa y garantizan un reconocimiento preciso y eficiente de los periféricos. 👨‍💻
+
+# ¡Mensaje Importante! 🚨
+Queremos destacar que estamos comprometidos en mejorar continuamente este proyecto. ¡Agradecemos tu interés y paciencia! Siéntete libre de contribuir o proporcionar comentarios para hacer de este proyecto una herramienta aún más poderosa. 🤝
